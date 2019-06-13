@@ -1,0 +1,17 @@
+type Query {
+   usuarios: [Usuario]
+}
+
+type Usuario {
+   id: Int!
+   nome: String
+   email: String
+   ativo: Boolean
+   permissoes: [Permissao]
+}
+
+type Permissao {
+   id: Int!
+   ativo: Boolean
+   descricao: String
+}
