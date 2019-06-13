@@ -11,3 +11,6 @@
 
 ### Serviços do projeto
 * Os serviços podem ser acessados através do endereço http://localhost:8080/graphiql
+
+
+![alt text](https://github.com/paulonill/exemplo-spring-boot-graphql/blob/master/imagens/imagem1.png?raw=true)
